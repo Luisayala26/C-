@@ -9,3 +9,14 @@ C:\Users\LUISAYALA\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dl
 C:\Users\LUISAYALA\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
 C:\Users\LUISAYALA\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
 C:\Users\LUISAYALA\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.exe
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.deps.json
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\demon\Desktop\cert\C-share\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
+C:\Users\demon\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
+C:\Users\demon\Desktop\cert\C-share\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb

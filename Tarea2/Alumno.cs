@@ -39,11 +39,18 @@ namespace Tarea2
             Console.WriteLine("Apellido Materno");
             ApeidoMat = Console.ReadLine();
             Console.WriteLine("Calificación del proyecto");
-            Proyecto = Convert.ToInt32(Console.ReadLine());
+            int aux= Convert.ToInt32(Console.ReadLine());
+            if (aux > 10) { Proyecto = 10; }
+            else if (aux < 0){ Proyecto = 0; }
+            else { Proyecto = aux; }
             Console.WriteLine("Cantidad de tareas");
-            Tareas = Convert.ToInt32(Console.ReadLine());
+            aux = Convert.ToInt32(Console.ReadLine());
+            if (aux > 5) { Tareas = 5; }
+            else if (aux < 0) { Tareas = 0; }
+            else { Tareas = aux; }
             Console.WriteLine("Cantidad de participaciones");
             Participaciones = Convert.ToInt32(Console.ReadLine());
+            
         }
 
     }

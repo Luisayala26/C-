@@ -10,8 +10,10 @@ namespace Tarea2
         {
             int calp = proyecto * 6;
             int calt = tareas * 4*2;
-            double calpa = par * .8*2;
-            int final = calp + calt + (int)calpa;
+            int calpa= 0;
+            if (par > 4){ calpa = 0;    }
+            else { calpa = 0; }
+            int final = calp + calt + calpa;
 
             if (final > 100) { return 100; }
             else if (final < 50) { return 50; }
