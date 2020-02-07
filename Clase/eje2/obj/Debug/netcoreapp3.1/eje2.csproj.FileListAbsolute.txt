@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.exe
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.deps.json
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.runtimeconfig.json
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.runtimeconfig.dev.json
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.dll
+C:\Users\demon\source\repos\eje2\bin\Debug\netcoreapp3.1\eje2.pdb
+C:\Users\demon\source\repos\eje2\obj\Debug\netcoreapp3.1\eje2.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\eje2\obj\Debug\netcoreapp3.1\eje2.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\eje2\obj\Debug\netcoreapp3.1\eje2.AssemblyInfo.cs
+C:\Users\demon\source\repos\eje2\obj\Debug\netcoreapp3.1\eje2.dll
+C:\Users\demon\source\repos\eje2\obj\Debug\netcoreapp3.1\eje2.pdb

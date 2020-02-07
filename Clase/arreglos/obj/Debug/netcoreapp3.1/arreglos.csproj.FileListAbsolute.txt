@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.exe
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.deps.json
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.runtimeconfig.json
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.runtimeconfig.dev.json
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.dll
+C:\Users\demon\source\repos\arreglos\bin\Debug\netcoreapp3.1\arreglos.pdb
+C:\Users\demon\source\repos\arreglos\obj\Debug\netcoreapp3.1\arreglos.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\arreglos\obj\Debug\netcoreapp3.1\arreglos.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\arreglos\obj\Debug\netcoreapp3.1\arreglos.AssemblyInfo.cs
+C:\Users\demon\source\repos\arreglos\obj\Debug\netcoreapp3.1\arreglos.dll
+C:\Users\demon\source\repos\arreglos\obj\Debug\netcoreapp3.1\arreglos.pdb

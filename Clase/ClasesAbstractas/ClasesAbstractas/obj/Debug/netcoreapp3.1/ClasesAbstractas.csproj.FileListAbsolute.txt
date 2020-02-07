@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.exe
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.deps.json
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.runtimeconfig.json
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.runtimeconfig.dev.json
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.dll
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.pdb
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.dll
+C:\Users\demon\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.pdb

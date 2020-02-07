@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.exe
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.deps.json
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.runtimeconfig.json
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.runtimeconfig.dev.json
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.dll
+C:\Users\demon\source\repos\minamespace\bin\Debug\netcoreapp3.1\minamespace.pdb
+C:\Users\demon\source\repos\minamespace\obj\Debug\netcoreapp3.1\minamespace.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\minamespace\obj\Debug\netcoreapp3.1\minamespace.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\minamespace\obj\Debug\netcoreapp3.1\minamespace.AssemblyInfo.cs
+C:\Users\demon\source\repos\minamespace\obj\Debug\netcoreapp3.1\minamespace.dll
+C:\Users\demon\source\repos\minamespace\obj\Debug\netcoreapp3.1\minamespace.pdb

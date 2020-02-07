@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.exe
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.deps.json
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.runtimeconfig.json
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.runtimeconfig.dev.json
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.dll
+C:\Users\demon\source\repos\tiposanonimos\bin\Debug\netcoreapp3.1\tiposanonimos.pdb
+C:\Users\demon\source\repos\tiposanonimos\obj\Debug\netcoreapp3.1\tiposanonimos.csprojAssemblyReference.cache
+C:\Users\demon\source\repos\tiposanonimos\obj\Debug\netcoreapp3.1\tiposanonimos.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\tiposanonimos\obj\Debug\netcoreapp3.1\tiposanonimos.AssemblyInfo.cs
+C:\Users\demon\source\repos\tiposanonimos\obj\Debug\netcoreapp3.1\tiposanonimos.dll
+C:\Users\demon\source\repos\tiposanonimos\obj\Debug\netcoreapp3.1\tiposanonimos.pdb
