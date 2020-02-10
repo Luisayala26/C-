@@ -1,0 +1,10 @@
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.exe
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.deps.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.runtimeconfig.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.runtimeconfig.dev.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\bin\Debug\netcoreapp3.1\eje14.pdb
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\obj\Debug\netcoreapp3.1\eje14.AssemblyInfoInputs.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\obj\Debug\netcoreapp3.1\eje14.AssemblyInfo.cs
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\obj\Debug\netcoreapp3.1\eje14.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje14\eje14\obj\Debug\netcoreapp3.1\eje14.pdb

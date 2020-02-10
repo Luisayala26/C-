@@ -1,0 +1,11 @@
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.exe
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.deps.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.runtimeconfig.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.runtimeconfig.dev.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\bin\Debug\netcoreapp3.1\eje9.pdb
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\obj\Debug\netcoreapp3.1\eje9.csprojAssemblyReference.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\obj\Debug\netcoreapp3.1\eje9.AssemblyInfoInputs.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\obj\Debug\netcoreapp3.1\eje9.AssemblyInfo.cs
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\obj\Debug\netcoreapp3.1\eje9.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje9\eje9\obj\Debug\netcoreapp3.1\eje9.pdb

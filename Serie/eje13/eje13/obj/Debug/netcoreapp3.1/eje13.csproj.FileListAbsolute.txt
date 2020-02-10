@@ -1,0 +1,11 @@
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\obj\Debug\netcoreapp3.1\eje13.csprojAssemblyReference.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\obj\Debug\netcoreapp3.1\eje13.AssemblyInfoInputs.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\obj\Debug\netcoreapp3.1\eje13.AssemblyInfo.cs
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.exe
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.deps.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.runtimeconfig.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.runtimeconfig.dev.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\bin\Debug\netcoreapp3.1\eje13.pdb
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\obj\Debug\netcoreapp3.1\eje13.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje13\eje13\obj\Debug\netcoreapp3.1\eje13.pdb

@@ -1,0 +1,11 @@
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.exe
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.deps.json
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.runtimeconfig.json
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.runtimeconfig.dev.json
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.dll
+C:\Users\LUISAYALA\source\repos\eje17\eje17\bin\Debug\netcoreapp3.1\eje17.pdb
+C:\Users\LUISAYALA\source\repos\eje17\eje17\obj\Debug\netcoreapp3.1\eje17.csprojAssemblyReference.cache
+C:\Users\LUISAYALA\source\repos\eje17\eje17\obj\Debug\netcoreapp3.1\eje17.AssemblyInfoInputs.cache
+C:\Users\LUISAYALA\source\repos\eje17\eje17\obj\Debug\netcoreapp3.1\eje17.AssemblyInfo.cs
+C:\Users\LUISAYALA\source\repos\eje17\eje17\obj\Debug\netcoreapp3.1\eje17.dll
+C:\Users\LUISAYALA\source\repos\eje17\eje17\obj\Debug\netcoreapp3.1\eje17.pdb

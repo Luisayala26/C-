@@ -1,0 +1,11 @@
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.exe
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.deps.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.runtimeconfig.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.runtimeconfig.dev.json
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\bin\Debug\netcoreapp3.1\eje10.pdb
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\obj\Debug\netcoreapp3.1\eje10.csprojAssemblyReference.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\obj\Debug\netcoreapp3.1\eje10.AssemblyInfoInputs.cache
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\obj\Debug\netcoreapp3.1\eje10.AssemblyInfo.cs
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\obj\Debug\netcoreapp3.1\eje10.dll
+C:\Users\LUISAYALA\Desktop\cert\C-share\Serie\eje10\eje10\obj\Debug\netcoreapp3.1\eje10.pdb
