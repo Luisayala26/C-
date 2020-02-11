@@ -1,0 +1,11 @@
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.exe
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.deps.json
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\bin\Debug\netcoreapp3.1\ClasesGenericas.pdb
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\ClasesGenericas\ClasesGenericas\obj\Debug\netcoreapp3.1\ClasesGenericas.pdb

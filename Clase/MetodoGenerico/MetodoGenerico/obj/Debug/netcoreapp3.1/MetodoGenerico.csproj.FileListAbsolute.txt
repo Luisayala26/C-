@@ -1,0 +1,11 @@
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.exe
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.deps.json
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\bin\Debug\netcoreapp3.1\MetodoGenerico.pdb
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\obj\Debug\netcoreapp3.1\MetodoGenerico.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\obj\Debug\netcoreapp3.1\MetodoGenerico.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\obj\Debug\netcoreapp3.1\MetodoGenerico.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\obj\Debug\netcoreapp3.1\MetodoGenerico.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\MetodoGenerico\MetodoGenerico\obj\Debug\netcoreapp3.1\MetodoGenerico.pdb

@@ -1,0 +1,11 @@
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb

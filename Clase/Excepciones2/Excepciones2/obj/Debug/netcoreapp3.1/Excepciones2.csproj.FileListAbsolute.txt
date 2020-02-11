@@ -1,0 +1,11 @@
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.exe
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.deps.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\bin\Debug\netcoreapp3.1\Excepciones2.pdb
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\obj\Debug\netcoreapp3.1\Excepciones2.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\obj\Debug\netcoreapp3.1\Excepciones2.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\obj\Debug\netcoreapp3.1\Excepciones2.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\obj\Debug\netcoreapp3.1\Excepciones2.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\Excepciones2\Excepciones2\obj\Debug\netcoreapp3.1\Excepciones2.pdb

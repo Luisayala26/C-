@@ -1,0 +1,11 @@
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.exe
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.deps.json
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.json
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.dev.json
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.pdb
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfoInputs.cache
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfo.cs
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\demon\Desktop\cert\C-share\Clase\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.pdb
