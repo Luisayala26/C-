@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace Consola
@@ -35,7 +35,16 @@ namespace Consola
                         }
                         else
                         {
-                            if (opcion.Split(" ").Length <= 2)
+                            if (opcion.Contains("\""))
+                                if (Directory.Exists(opcion.Split("\"")[1]))
+                                {
+                                    Funciones.Directorio(opcion.Split("\"")[1], opcion);
+                                }
+                                else
+                                {
+                                    Console.WriteLine("No existe el directorio {0}", opcion.Split("\"")[1]);
+                                }
+                            else if (opcion.Split(" ").Length <= 2)
                                 if (Directory.Exists(opcion.Split(" ")[1]))
                                 {
                                     Funciones.Directorio(opcion.Split(" ")[1], opcion);
@@ -105,3 +114,4 @@ namespace Consola
         }
     }
 }
+
